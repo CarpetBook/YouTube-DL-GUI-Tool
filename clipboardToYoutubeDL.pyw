@@ -7,7 +7,7 @@ searchforconfig = os.listdir();
 audioformat = None
 videoformat = None
 
-os.chdir("C:/Users/Owner/Downloads")
+#os.chdir("C:/Users/Owner/Downloads")
 
 youtubelink = pyperclip.paste()
 
