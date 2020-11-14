@@ -7,4 +7,6 @@ You need:
 - pip
 
 Install YouTube-DL, pyperclip, and PySimpleGUI:  
-```pip install youtube-dl pyperclip pysimplegui```
+```pip install youtube-dl pyperclip pysimplegui```  
+  
+To open the GUI, double-click the Python file.
